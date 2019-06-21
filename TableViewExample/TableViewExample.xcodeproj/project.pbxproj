@@ -14,6 +14,7 @@
 		EC61A44C22BCD78600580936 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC61A44A22BCD78600580936 /* LaunchScreen.storyboard */; };
 		EC61A45722BCD78600580936 /* TableViewExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC61A45622BCD78600580936 /* TableViewExampleTests.swift */; };
 		EC61A46222BCD78600580936 /* TableViewExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC61A46122BCD78600580936 /* TableViewExampleUITests.swift */; };
+		EC61A47022BCE30100580936 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC61A46F22BCE30100580936 /* User.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		EC61A45D22BCD78600580936 /* TableViewExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TableViewExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC61A46122BCD78600580936 /* TableViewExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewExampleUITests.swift; sourceTree = "<group>"; };
 		EC61A46322BCD78600580936 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EC61A46F22BCE30100580936 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				EC61A44822BCD78600580936 /* Assets.xcassets */,
 				EC61A44A22BCD78600580936 /* LaunchScreen.storyboard */,
 				EC61A44D22BCD78600580936 /* Info.plist */,
+				EC61A46F22BCE30100580936 /* User.swift */,
 			);
 			path = TableViewExample;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				EC61A44422BCD78400580936 /* ViewController.swift in Sources */,
 				EC61A44222BCD78400580936 /* AppDelegate.swift in Sources */,
+				EC61A47022BCE30100580936 /* User.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
